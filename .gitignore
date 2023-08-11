@@ -1,0 +1,11 @@
+.idea
+__pycache__
+data/*.pickle
+data/*.lock
+data/*.txt
+plot_server.log
+simulator.log
+*crash.txt
+codes/*.json
+codes/*.lock
+codes/*.txt

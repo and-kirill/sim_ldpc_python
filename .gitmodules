@@ -1,0 +1,6 @@
+[submodule "simulator_awgn_python"]
+	path = simulator_awgn_python
+	url = https://github.com/and-kirill/simulator_awgn_python
+[submodule "ldpc_soft_py"]
+	path = ldpc_soft_py
+	url = https://github.com/and-kirill/ldpc_soft_py
